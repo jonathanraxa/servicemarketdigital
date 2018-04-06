@@ -417,17 +417,17 @@ select {
 	text-transform: none;
 }
 
-.header h1.logo a {
-	display: inline-block;
-	max-width: 155px;
-	position: relative;
-	padding-top: 28px;
-	padding-bottom: 28px;
-	text-align: center;
-	color: #fff;
-	-webkit-transition: color .2s ease-out-sine;
-	transition: color .2s ease-out-sine;
-}
+   .header h1.logo a {
+      display: inline-block;
+      max-width: 155px;
+      position: relative;
+      padding-top: 6px;
+      padding-bottom: 22px;
+      text-align: center;
+      color: #fff;
+      -webkit-transition: color .2s ease-out-sine;
+      transition: color .2s ease-out-sine;
+    }
 
 .header h1.logo a:hover, .header h1.logo a:focus {
 	outline: none;
